@@ -1,6 +1,6 @@
 						Worldwide Earthquake Database Analysis
 
-This repository contains Python code for analyzing a worldwide earthquake database. The dataset provides information about significant earthquakes, including their magnitudes, locations, and temporal patterns.
+This repository contains Python code for analysing a worldwide earthquake database. The dataset provides information about significant earthquakes, including their magnitudes, locations, and temporal patterns.
 
 ![image](https://github.com/Ngot97/Project-1/assets/150645979/35eb3f19-c4c7-4d21-bf8b-eee9a6813975)
 
@@ -42,7 +42,7 @@ The analysis covers the following aspects:
 	
  	Scatter plot and an interactive map showcasing the distribution of earthquakes based on latitude and longitude.
 
-3. Pattern Analysis:
+. Pattern Analysis:
 	
 	A heatmap depicting the distribution of earthquake intensity based on latitude and longitude.
 	
@@ -53,7 +53,7 @@ The analysis covers the following aspects:
 	Time series analysis, including trends in earthquake occurrences over time.
 
 
-5. Magnitude Trends:
+. Magnitude Trends:
 	
  	Linear Regression: EQ_PRIMARY vs. INTENSITY - A scatter plot with a linear regression line exploring the correlation between earthquake magnitude and intensity.
 	
