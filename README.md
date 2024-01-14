@@ -10,9 +10,9 @@ Prerequisites
 
 Make sure you have the following dependencies installed:
 
-	Python 3
-	Jupyter Notebook
-	Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
+Python 3
+Jupyter Notebook
+Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
 
                                                 Dataset
 
