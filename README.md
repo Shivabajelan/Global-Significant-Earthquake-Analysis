@@ -1,4 +1,4 @@
-# Worldwide Earthquake Database Analysis
+# Global Significant Earthquake Analysis
 
 This repository contains Python code for analysing a worldwide earthquake database. The dataset provides information about significant earthquakes, including their magnitudes, locations, and temporal patterns.
 
@@ -24,12 +24,11 @@ Download the Worldwide-Earthquake-database.csv file and place it in the "Resourc
 
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
 
-# In this project, we will check
-### Q1. Where are the earthquakes? Are they located on the Pacific Ring of Fire? 
-### Q2. When do earthquakes occur? Investigating the number of earthquake trends over time
-### Q3. How often do earthquakes trigger tsunamis?
+# In this project, we will check
+### Q1. Where are the earthquakes? Are they located on the Pacific Ring of Fire? 
+### Q2. When do earthquakes occur? Investigating the number of earthquake trends over time
+### Q3. How often do earthquakes trigger tsunamis?
 ### Q4. What is the correlation between Magnitude and Intensity?
-
 ![image](https://github.com/Ngot97/Project-1/assets/151003203/a8b72c08-7dd9-4b4e-9788-9ec66261cee7)
 
 # Analysis and Results
