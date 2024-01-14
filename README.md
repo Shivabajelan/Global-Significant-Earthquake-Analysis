@@ -55,7 +55,7 @@ The analysis covers the following aspects:
 
 5. Magnitude Trends:
 	
- 	LLinear Regression: EQ_PRIMARY vs. INTENSITY - A scatter plot with a linear regression line exploring the correlation between earthquake magnitude and intensity.
+ 	Linear Regression: EQ_PRIMARY vs. INTENSITY - A scatter plot with a linear regression line exploring the correlation between earthquake magnitude and intensity.
 	
  	Linear regression analysis to identify the overall trend in earthquake occurrences. - 
 
