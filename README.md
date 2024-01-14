@@ -24,44 +24,13 @@ Download the Worldwide-Earthquake-database.csv file and place it in the "Resourc
 
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
 
-The analysis covers the following aspects:
+In this project, we will check
+Q1. Where are the earthquakes? Are they located on the Pacific Ring of Fire? 
+Q2. When do earthquakes occur? Investigating the number of earthquake trends over time
+Q3. How often do earthquakes trigger tsunamis?
+Q4. What is the correlation between Magnitude and Intensity?
 
-1. Exploration and Cleaning:
-   
-	Loading and exploring the dataset.
-
-	Narrowing down the columns for analysis.
-	
- 	Handling null values.
-
-2. Visualization:
-   
-	Bar chart of the top 20 countries with the highest earthquake counts.
-	
- 	Bar chart of the top 20 countries with the highest earthquake intensity (intensity >= 7.5).
-	
- 	Scatter plot and an interactive map showcasing the distribution of earthquakes based on latitude and longitude.
-
-. Pattern Analysis:
-	
-	A heatmap depicting the distribution of earthquake intensity based on latitude and longitude.
-	
- 	Scatterplot based on earthquake intensity.
-	
- 	Distribution of earthquakes based on focal depth.
-	
-	Time series analysis, including trends in earthquake occurrences over time.
-
-
-. Magnitude Trends:
-	
- 	Linear Regression: EQ_PRIMARY vs. INTENSITY - A scatter plot with a linear regression line exploring the correlation between earthquake magnitude and intensity.
-	
- 	Linear regression analysis to identify the overall trend in earthquake occurrences. - 
-
-6. Tsunami Occurrence:
-   
-	A pie chart depicting the percentage of earthquakes that trigger tsunamis.
+![image](https://github.com/Ngot97/Project-1/assets/151003203/a8b72c08-7dd9-4b4e-9788-9ec66261cee7)
 
                                                 Results
 
