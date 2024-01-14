@@ -31,7 +31,6 @@ Download the Worldwide-Earthquake-database.csv file and place it in the "Resourc
 ### Q2. When do earthquakes occur? Investigating the number of earthquake trends over time
 ### Q3. How often do earthquakes trigger tsunamis?
 ### Q4. What is the correlation between Magnitude and Intensity?
-![image](https://github.com/Ngot97/Project-1/assets/151003203/a8b72c08-7dd9-4b4e-9788-9ec66261cee7)
 # Analysis and Results
 
 The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide.
