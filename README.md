@@ -4,7 +4,7 @@ This repository contains Python code for analyzing a worldwide earthquake databa
 
 ![image](https://github.com/Ngot97/Project-1/assets/150645979/35eb3f19-c4c7-4d21-bf8b-eee9a6813975)
 
-1. Getting Started
+                                                Getting Started
 
 Prerequisites
 
@@ -14,17 +14,17 @@ Make sure you have the following dependencies installed:
 	Jupyter Notebook
 	Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
 
-2. Dataset
+                                                Dataset
 
 The dataset used for this analysis is available on Kaggle. "Global Significant Earthquake Database from 2150BC" 
 
 Download the Worldwide-Earthquake-database.csv file and place it in the "Resources" folder.
 
-Analysis Overview
+                                                Analysis Overview
 
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
 
-3. The analysis covers the following aspects:
+The analysis covers the following aspects:
 
 1. Exploration and Cleaning:
    
@@ -63,7 +63,7 @@ Analysis Overview
    
 	A pie chart depicting the percentage of earthquakes that trigger tsunamis.
 
-4. Results
+                                                Results
 
 The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide.
 
