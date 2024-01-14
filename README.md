@@ -5,7 +5,9 @@ A significant earthquake is classified as one that meets at least one of the fol
 
 ## Our Dataset
 
-The dataset used for this analysis is available on Kaggle. "Global Significant Earthquake Database from 2150BC"
+The dataset used for this analysis is available on Kaggle. "Global Significant Earthquake Database from 2150BC" "https://www.kaggle.com/datasets/mohitkr05/global-significant-earthquake-database-from-2150bc"
+
+
 
 This repository contains Python code for analysing a worldwide earthquake database. The dataset provides information about significant earthquakes, including their magnitudes, locations, and temporal patterns.
 
