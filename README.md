@@ -34,7 +34,7 @@ Download the Worldwide-Earthquake-database.csv file and place it in the "Resourc
 ### Q4. What is the correlation between Magnitude and Intensity?
 # Analysis and Results
 
-The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide.
+The analysis provides valuable insights into earthquake patterns, intensity distribution, and trends over time. Explore the generated plots and maps to gain a comprehensive understanding of seismic activity worldwide. The analysis are provided inside the main Jupyter Notebook.
 
 
 ## Acknowledgments
