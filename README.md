@@ -19,9 +19,9 @@ Prerequisites
 
 Make sure you have the following dependencies installed:
 
-####Python 3
-####Jupyter Notebook
-Required Python packages (matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium)
+### Python 3
+### Jupyter Notebook
+### Required Python packages: matplotlib, pandas, numpy, hvplot, geoviews, geopandas, scipy, seaborn, folium
 Download the Worldwide-Earthquake-database.csv file and place it in the "Resources" folder.
 
 ![pacific-ring-of-fire](https://github.com/Ngot97/Project-1/assets/150645979/814b6be3-06ce-482b-964b-d166ccdd2c1e)
